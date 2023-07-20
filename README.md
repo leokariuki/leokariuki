@@ -4,6 +4,8 @@ I'm Leo Kariuki, a data scientist passionate about using data to tell stories an
 
 🔍 Interests
 
+Python
+
 Data Analysis
 
 Data Preprocessing
