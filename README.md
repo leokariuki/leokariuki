@@ -5,9 +5,13 @@ I'm Leo Kariuki, a data scientist passionate about using data to tell stories an
 🔍 Interests
 
 Data Analysis
+
 Data Preprocessing
+
 Machine Learning
+
 Deep Learning
+
 SQL
 
 🌱 Currently Learning
