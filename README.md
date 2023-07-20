@@ -1,4 +1,5 @@
 Hi there! 👋
+
 I'm Leo Kariuki, a data scientist passionate about using data to tell stories and derive meaningful insights that can aid in making informed decisions. Welcome to my GitHub profile!
 
 🔍 Interests
