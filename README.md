@@ -15,6 +15,7 @@ Deep Learning
 SQL
 
 🌱 Currently Learning
+
 I'm always striving to enhance my skills and knowledge in the field of data science. Currently, I'm focusing on deepening my understanding of advanced machine learning techniques and exploring new data visualization tools.
 
 📊 Collaboration
