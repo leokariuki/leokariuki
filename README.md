@@ -28,10 +28,10 @@ I'm a Data Scientist who loves uncovering patterns and translating data into sto
 - Generated process reports for continuous accounts.  
 
 ## 🚀 Projects  
-- **Small Businesses Credit Worthiness** – Built a creditworthiness prediction model using XGBoost and deployed it via Streamlit. *(85% accuracy)*  
-- **Airline Sentiment Analysis** – Developed an NLP-based system to analyze passenger sentiments about American Airlines. *(86.5% accuracy)*  
-- **Chicago Car Crashes** – Used machine learning (logistic regression, random forest, XGBoost) to predict causes of road accidents. *(88% accuracy)*  
-- **King County House Sales** – Built a regression model to predict home prices based on real estate data. *(Explained variance: 74%)*  
+- **[Small Businesses Credit Worthiness](https://github.com/leokariuki/Credit_Worthiness_of_Small_Businesses)** – Built a creditworthiness prediction model using XGBoost and deployed it via Streamlit. *(85% accuracy)*  
+- **[Airline Sentiment Analysis](https://github.com/leokariuki/AIRLINE-SENTIMENT-ANALYSIS)** – Developed an NLP-based system to analyze passenger sentiments about American Airlines. *(86.5% accuracy)*  
+- **[Chicago Car Crashes](https://github.com/leokariuki/Chicago-Car-Crashes)** – Used machine learning (logistic regression, random forest, XGBoost) to predict causes of road accidents. *(88% accuracy)*  
+- **[King County House Sales](https://github.com/leokariuki/King_County_House-Sales_Model)** – Built a regression model to predict home prices based on real estate data. *(Explained variance: 74%)*  
 
 ## 📚 Education  
 - **Data Science Certification** – *Moringa School (Nov 2023)*  
