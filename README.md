@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
-I'm Leo Kariuki, a data scientist passionate about using data to tell stories and derive meaningful insights that can aid in making informed decisions. Welcome to my GitHub profile!
 
+Hi, I'm Leo Kariuki, a Data Scientist who loves uncovering patterns and translating data into stories that inspire decisions. I enjoy making sense of complex information and turning numbers into insights. Welcome to my GitHub profile!
 ## 🔍 Interests
 
 Python
@@ -32,4 +32,4 @@ Email: leokariuki98@gmail.com
 
 LinkedIn: [linkedin.com/in/leokariuki](https://www.linkedin.com/in/leokariuki/)
 
-Feel free to explore my repositories and projects, and don't hesitate to connect with me. Let's collaborate and make an impact with data! 😄
+Feel free to explore my repositories and projects, and don't hesitate to connect with me. Let's collaborate and make an impact with data! 
