@@ -1,35 +1,49 @@
-## Hi there! 👋
+# Hi there! 👋 I'm Leo Kariuki  
 
+I'm a Data Scientist who loves uncovering patterns and translating data into stories that inspire decisions. I enjoy making sense of complex information and turning numbers into insights. Welcome to my GitHub profile!
 
-Hi, I'm Leo Kariuki, a Data Scientist who loves uncovering patterns and translating data into stories that inspire decisions. I enjoy making sense of complex information and turning numbers into insights. Welcome to my GitHub profile!
-## 🔍 Interests
+## 👨🏾‍💻 Technical Skills  
+- **Programming Languages:** Python (Pandas, NumPy, SciPy, Matplotlib), SQL  
+- **Machine Learning & Deep Learning:** TensorFlow, Natural Language Processing (NLP), XGBoost  
+- **Data Visualization:** Tableau, Matplotlib  
+- **Cloud Computing:** AWS (Database Services)  
+- **Research & Innovation**  
 
-Python
+## 🌟 Experience  
+### **Intern – Commission for University Education** *(April 2024 – Present)*  
+- Assist in auditing universities to ensure compliance with education policies and standards.  
+- Conduct data entry and analysis for audit findings and reports.  
+- Provide administrative support to the Quality Audit Department.  
 
-Data Analysis
+### **Data Entry Agent – Judiciary of Kenya** *(Nov 2023 – March 2024)*  
+- Managed accurate data entry for legal documents and case records.  
+- Implemented an improved reporting system in Excel, reducing processing time by 50%.  
 
-Data Preprocessing
+### **Data Analytics Intern – KPMG** *(Sept 2023)*  
+- Assessed data quality and prepared datasets for analysis.  
+- Developed customer targeting models and created interactive dashboards.  
 
-Machine Learning
+### **Data Analyst Attaché – National Social Security Fund** *(June 2022 – Aug 2022)*  
+- Analyzed complex financial and development data.  
+- Generated process reports for continuous accounts.  
 
-Deep Learning
+## 🚀 Projects  
+- **Small Businesses Credit Worthiness** – Built a creditworthiness prediction model using XGBoost and deployed it via Streamlit. *(85% accuracy)*  
+- **Airline Sentiment Analysis** – Developed an NLP-based system to analyze passenger sentiments about American Airlines. *(86.5% accuracy)*  
+- **Chicago Car Crashes** – Used machine learning (logistic regression, random forest, XGBoost) to predict causes of road accidents. *(88% accuracy)*  
+- **King County House Sales** – Built a regression model to predict home prices based on real estate data. *(Explained variance: 74%)*  
 
-SQL
+## 📚 Education  
+- **Data Science Certification** – *Moringa School (Nov 2023)*  
+- **Bachelor of Commerce (Entrepreneurship Option)** – *KCA University (Dec 2022)*  
 
-## 🌱 Currently Learning
+## 🏆 Achievements  
+- Conducted research on the effects of strategic planning on SME performance in Nairobi CBD, covering 600 SMEs.  
 
-I'm always striving to enhance my skills and knowledge in the field of data science. Currently, I'm focusing on deepening my understanding of advanced machine learning techniques and exploring new data visualization tools.
+## 📫 Connect with Me  
+- **LinkedIn:** [Leo Kariuki](https://www.linkedin.com/in/leokariuki/)  
+- **GitHub:** [Leo Kariuki](https://github.com/leokariuki)  
+- **Email:** leokariuki98@gmail.com  
 
-## 📊 Collaboration
+Feel free to explore my repositories and see how I use data to solve real-world problems! 🚀
 
-I'm enthusiastic about collaborating on exciting data-driven projects. If you have any interesting projects that require data analysis or machine learning expertise, I'd be thrilled to contribute and work together!
-
-## 📫 How to Reach Me
-
-You can reach out to me through the following channels:
-
-Email: leokariuki98@gmail.com
-
-LinkedIn: [linkedin.com/in/leokariuki](https://www.linkedin.com/in/leokariuki/)
-
-Feel free to explore my repositories and projects, and don't hesitate to connect with me. Let's collaborate and make an impact with data! 
