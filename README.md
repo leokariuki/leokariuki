@@ -28,10 +28,25 @@ I'm a Data Scientist who loves uncovering patterns and translating data into sto
 - Generated process reports for continuous accounts.  
 
 ## 🚀 Projects  
-- **[Small Businesses Credit Worthiness](https://github.com/leokariuki/Credit_Worthiness_of_Small_Businesses)** – Built a creditworthiness prediction model using XGBoost and deployed it via Streamlit. *(85% accuracy)*  
-- **[Airline Sentiment Analysis](https://github.com/leokariuki/AIRLINE-SENTIMENT-ANALYSIS)** – Developed an NLP-based system to analyze passenger sentiments about American Airlines. *(86.5% accuracy)*  
-- **[Chicago Car Crashes](https://github.com/leokariuki/Chicago-Car-Crashes)** – Used machine learning (logistic regression, random forest, XGBoost) to predict causes of road accidents. *(88% accuracy)*  
-- **[King County House Sales](https://github.com/leokariuki/King_County_House-Sales_Model)** – Built a regression model to predict home prices based on real estate data. *(Explained variance: 74%)*  
+### Creditworthiness Prediction for Small Businesses
+- Developed a machine learning model using XGBoost to predict the creditworthiness of small businesses, achieving 85% accuracy. 
+- Deployed the model via Streamlit for real-time predictions.
+- Tools: Python, Pandas, Scikit-Learn, XGBoost, Streamlit
+
+### Airline Sentiment Analysis
+- Built a Natural Language Processing (NLP) model to analyze passenger sentiment toward American Airlines, achieving 86.5% accuracy.
+- Implemented techniques like text preprocessing, TF-IDF vectorization, and sentiment classification.
+- Tools: Python, NLTK, SpaCy, Scikit-Learn, Pandas, Matplotlib
+
+### Chicago Car Crash Analysis and Prediction
+- Applied Logistic Regression, Random Forest, and XGBoost to analyze historical crash data and predict factors contributing to road accidents, with an 88% accuracy.
+- The model revealed high-risk factors to inform road safety strategies.
+- Tools: Python, Pandas, Scikit-Learn, XGBoost, Matplotlib, Seaborn
+
+### King County Housing Price Prediction
+- Built a regression model to predict home prices in King County, achieving 74% explained variance.
+- Leveraged feature engineering techniques to identify key property value drivers.
+- Tools: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
 
 ## 📚 Education  
 - **Data Science Certification** – *Moringa School (Nov 2023)*  
