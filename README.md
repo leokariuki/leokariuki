@@ -10,7 +10,7 @@ I'm a Data Scientist who loves uncovering patterns and translating data into sto
 - **Research & Innovation**  
 
 ## 🌟 Experience  
-### **Intern – Commission for University Education** *(April 2024 – Present)*  
+### **Intern – Commission for University Education** *(April 2024 – April 2025)*  
 - Assist in auditing universities to ensure compliance with education policies and standards.  
 - Conduct data entry and analysis for audit findings and reports.  
 - Provide administrative support to the Quality Audit Department.  
