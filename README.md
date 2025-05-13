@@ -39,7 +39,7 @@ I'm a Data Scientist who loves uncovering patterns and translating data into sto
 - Implemented techniques like text preprocessing, TF-IDF vectorization, and sentiment classification.
 - Tools: Python, NLTK, SpaCy, Scikit-Learn, Pandas, Matplotlib
 
-### Chicago Car Crash Analysis and Prediction
+### [Chicago Car Crash Analysis and Prediction](https://github.com/leokariuki/Chicago-Car-Crashes)
 - Applied Logistic Regression, Random Forest, and XGBoost to analyze historical crash data and predict factors contributing to road accidents, with an 88% accuracy.
 - The model revealed high-risk factors to inform road safety strategies.
 - Tools: Python, Pandas, Scikit-Learn, XGBoost, Matplotlib, Seaborn
