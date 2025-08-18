@@ -5,19 +5,21 @@ I'm a Data Scientist who loves uncovering patterns and translating data into sto
 ## 👨🏾‍💻 Technical Skills  
 - **Programming Languages:** Python (Pandas, NumPy, SciPy, Matplotlib), SQL  
 - **Machine Learning & Deep Learning:** TensorFlow, Natural Language Processing (NLP), XGBoost  
-- **Data Visualization:** Tableau, Matplotlib  
+- **Data Visualization:** Tableau, Power BI
 - **Cloud Computing:** AWS (Database Services)  
 - **Research & Innovation**  
 
 ## 🌟 Experience  
-### **Intern – Commission for University Education** *(April 2024 – April 2025)*  
-- Assist in auditing universities to ensure compliance with education policies and standards.  
-- Conduct data entry and analysis for audit findings and reports.  
-- Provide administrative support to the Quality Audit Department.  
+### **Data Analyst – Commission for University Education** *(April 2024 – April 2025)*  
+-  I Performed ETL processes on university audit datasets using Excel and SQL, ensuring regulatory compliance and data integrity.
+- Developed interactive Tableau dashboards and visualizations to transform audit data into actionable business intelligence for strategic decision-making.
+- Independently managed data pipelines and conducted exploratory data analysis, delivering executive presentations with data-driven insights and KPIs.
+- Provided technical and administrative support to the Quality Audit Department, utilizing Excel for data organization and reporting as required.
 
 ### **Data Entry Agent – Judiciary of Kenya** *(Nov 2023 – March 2024)*  
-- Managed accurate data entry for legal documents and case records.  
-- Implemented an improved reporting system in Excel, reducing processing time by 50%.  
+- Executed high volume data entry using advanced Excel functions, ensuring 100% accuracy in legal case documentation and compliance records.
+- Developed Excel-based tracking systems with pivot tables and data validation to streamline case management workflows.
+- Implemented quality control protocols through Excel automation and conditional formatting to maintain data integrity across legal documents.
 
 ### **Data Analytics Intern – KPMG** *(Sept 2023)*  
 - Assessed data quality and prepared datasets for analysis.  
