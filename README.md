@@ -6,7 +6,7 @@ I'm a Data Scientist who loves uncovering patterns and translating data into sto
 - **Programming Languages:** Python (Pandas, NumPy, SciPy, Matplotlib), SQL  
 - **Machine Learning & Deep Learning:** TensorFlow, Natural Language Processing (NLP), XGBoost  
 - **Data Visualization:** Tableau, Power BI
-- **Cloud Computing:** AWS (Database Services)  
+- **Data Analysis**
 - **Research & Innovation**  
 
 ## 🌟 Experience  
