@@ -5,7 +5,7 @@ I'm a Data Scientist who loves uncovering patterns and translating data into sto
 ## 👨🏾‍💻 Technical Skills  
 - **Programming Languages:** Python (Pandas, NumPy, SciPy, Matplotlib), SQL  
 - **Machine Learning & Deep Learning:** TensorFlow, Natural Language Processing (NLP), XGBoost  
-- **Data Visualization:** Tableau, Power BI
+- **Data Visualization:** (Tableau)
 - **Data Analysis**
 - **Research & Innovation**  
 
