@@ -11,7 +11,7 @@ I'm a data professional with a passion for transforming complex datasets into ac
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Capabilities
 
 ### **Languages & Databases**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
