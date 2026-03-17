@@ -44,6 +44,15 @@ I'm a data professional with a passion for transforming complex datasets into ac
 
 ## 💼 Professional Experience
 
+### **Digital Project Analyst** | *BienesDar.org*
+**Feb 2026 – Present** | Spain · Remote
+
+- 🤖 **Building lightweight automation workflows**, tracking systems, and basic platforms to support social impact projects with low-cost, low-maintenance digital solutions
+- 📊 **Developing KPI snapshots, progress dashboards, and reporting templates** for internal use and funder/partner communication
+- 📁 Organising documentation and evidence packs including deliverables, dissemination proofs, and testing feedback
+- 📝 Producing short analytical notes and data-driven summaries to support decision-making and funding discussions
+- 🌍 Contributing to key projects: **Social Media Publisher, Soft Skills Passport, Intercambio Alojamiento, and Counselia**
+
 ### **Data Analyst, Quality Audit** | *Commission for University Education*
 **Apr 2024 – Apr 2025** | Nairobi, Kenya
 
@@ -67,6 +76,13 @@ I'm a data professional with a passion for transforming complex datasets into ac
 ---
 
 ## 🚀 Featured Projects
+
+### [Social Media Automation – BienesDar.org](https://github.com/leokariuki) | `Python` `Automation` `APIs`
+**Impact:** Eliminated hours of manual social media work weekly for a non-profit
+
+- 🤖 Built a fully automated publishing system that posts daily content across **LinkedIn, Facebook, Instagram, and Bluesky** without manual intervention
+- 🌐 Implemented a **bilingual scheduling strategy** — Spanish posts at 13:00 CET and English posts at 13:13 CET — ensuring consistent outreach to both audiences
+- 🎯 Freed the BienesDar team to focus on their core mission of promoting wellbeing, education, and social innovation
 
 ### [Healthcare Utilization Analysis](https://github.com/leokariuki) | `Python` `PostgreSQL` `Pandas`
 **Impact:** Enabled **$500K+ cost savings** through data-driven resource allocation
