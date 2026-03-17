@@ -164,7 +164,7 @@ Financial Analysis • Business Principles • Quantitative Methods
 - 🤖 **ML Innovation**: End-to-end model development from data preprocessing to deployment
 - 📊 **Data Storytelling**: Transforming complex datasets into executive-ready insights
 - ⚡ **Performance Focus**: Query optimization, automation, and scalable solutions
-- 🌍 **Cross-Cultural Collaboration**: English (Fluent) • Swahili (Fluent) • German (A1)
+- 🌍 **Cross-Cultural Collaboration**: English (Fluent) • Swahili (Fluent) • Spanish (A1)
 
 ---
 
