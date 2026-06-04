@@ -63,7 +63,7 @@ real automation and analytics for a social-impact organisation in Spain.
 
 ## 💼 Professional Experience
 
-### **Digital Project Analyst** | *BienesDar.org*
+### **Digital Projects Analyst** | *BienesDar.org*
 **Feb 2026 – Present** | Spain · Remote
 
 - 🤖 **Building lightweight automation workflows**, tracking systems, and basic platforms to support social impact projects with low-cost, low-maintenance digital solutions
