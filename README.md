@@ -1,8 +1,11 @@
 # Hi there! 👋 I'm Leo Kariuki
 
-**Data Analyst | Data Scientist | MSc Data Science Student**
+**Data Scientist | AI Engineer | Data & Automation Specialist | MSc Data Science**
 
-I'm a data professional with a passion for transforming complex datasets into actionable insights and building intelligent systems that drive business value. Currently pursuing my MSc in Data Science at the University of East London while architecting data solutions that merge analytics rigor with machine learning innovation.
+I build intelligent, automated systems that turn messy data into business decisions —
+spanning machine learning, NLP, LLM-powered tools, and end-to-end analytics pipelines.
+Currently pursuing an MSc in Data Science (University of East London) while shipping
+real automation and analytics for a social-impact organisation in Spain.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leokariuki/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://leokariuki.lovable.app)
@@ -11,34 +14,50 @@ I'm a data professional with a passion for transforming complex datasets into ac
 
 ---
 
+## 🔭 What I'm Building Now
+
+- 🤖 **LLM & RAG applications** — document Q&A and report-generation tools using OpenAI / LangChain
+- ⚙️ **No-/low-code automation** that replaces manual workflows for a non-profit (Make.com, Python, APIs)
+- 📊 **Production analytics** — schema-driven reporting platforms with scoring engines and PDF generation
+- 🎓 **MSc research** in applied machine learning and big-data analytics
+
+---
+
 ## 🛠️ Technical Capabilities
 
-### **Languages & Databases**
+### Languages & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### **Data Science & ML Stack**
+### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-### **Visualization & BI Tools**
+### AI / LLM Engineering
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Visualization, BI & Automation
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
 
-### **Core Competencies**
+### Core Competencies
 - **ETL & Data Engineering**: Automated pipelines, query optimization, data validation
 - **Machine Learning**: Classification, regression, NLP, feature engineering
+- **AI Engineering**: LLM applications, RAG systems, prompt engineering, AI-driven automation
 - **Statistical Modeling**: Hypothesis testing, predictive analytics, time series
 - **Data Visualization**: Interactive dashboards, executive reporting, storytelling
-- **NLP**: Sentiment analysis, text preprocessing, TF-IDF, topic modeling
 
 ---
 
@@ -77,66 +96,47 @@ I'm a data professional with a passion for transforming complex datasets into ac
 
 ## 🚀 Featured Projects
 
-### [Social Media Automation – BienesDar.org](https://github.com/leokariuki) | `Python` `Automation` `APIs`
-**Impact:** Eliminated hours of manual social media work weekly for a non-profit
+### 📊 [Healthcare Utilization Analytics](https://github.com/leokariuki/Healthcare-Utilization-Project) · `Python` `PostgreSQL` `Tableau`
+End-to-end analytics pipeline on **synthetic Synthea EHR data** — Python cleaning → SQL
+aggregation → interactive Tableau dashboards on demographics, top conditions, encounter
+mix, and readmission patterns.
 
-- 🤖 Built a fully automated publishing system that posts daily content across **LinkedIn, Facebook, Instagram, and Bluesky** without manual intervention
-- 🌐 Implemented a **bilingual scheduling strategy** — Spanish posts at 13:00 CET and English posts at 13:13 CET — ensuring consistent outreach to both audiences
-- 🎯 Freed the BienesDar team to focus on their core mission of promoting wellbeing, education, and social innovation
+### 🔋 [EV Market Analytics](https://github.com/leokariuki/ev-insights) · `PostgreSQL` `Tableau`
+SQL-driven analysis of electric-vehicle population data, uncovering **BEV vs PHEV adoption
+trends**, manufacturer leadership, and electric-range progress over time.
 
-### [Healthcare Utilization Analysis](https://github.com/leokariuki) | `Python` `PostgreSQL` `Pandas`
-**Impact:** Enabled **$500K+ cost savings** through data-driven resource allocation
+### 💬 [Airline Sentiment Analysis](https://github.com/leokariuki/AIRLINE-SENTIMENT-ANALYSIS) · `Python` `NLP` `NLTK`
+NLP pipeline classifying US-airline tweets into positive/negative/neutral sentiment —
+text preprocessing, TF-IDF vectorization, and ML classification to surface
+customer-experience signals.
 
-- ⚡ **Reduced query time by 75%** on **100K+ patient records** via optimized indexing and table partitioning
-- 🏥 Identified utilization patterns enabling targeted resource allocation and operational efficiency
-- 📊 Built comprehensive analytics pipeline from raw healthcare data to actionable insights
+### 🏠 [King County House Price Prediction](https://github.com/leokariuki/King_County_House-Sales_Model) · `Python` `Regression`
+Multiple-regression model on **21K+ property transactions** (R² ≈ 0.74), identifying the
+key drivers of home value to support data-driven property valuation.
 
-### [EV Revolution: Market Analytics](https://github.com/leokariuki) | `PostgreSQL` `Tableau`
-**Scope:** Analysis of **150K+ EV registrations** (1996–2024)
+### 🚗 [Chicago Car-Crash Classification](https://github.com/leokariuki/Chicago-Car-Crashes) · `Python` `XGBoost`
+Multi-model comparison (Logistic Regression → Random Forest → XGBoost) predicting primary
+crash causes to inform proactive road-safety strategy.
 
-- 🔋 Uncovered **77.6% BEV market dominance** and key adoption trends in the electric vehicle sector
-- 📈 Delivered compelling Tableau visualizations revealing Tesla's market leadership and competitive landscape
-- 💡 Provided strategic insights for stakeholders in the EV ecosystem
+### ⚙️ [BienesDar Social-Media Publisher](https://github.com/leokariuki/BienesDar-Social-Media-Publisher) · `Automation` `APIs`
+Hands-off, multi-platform daily publishing (LinkedIn · Facebook · Instagram · Bluesky)
+driven by a Google Sheets content plan — eliminating manual social-media work for a non-profit.
 
-### [Small Business Credit Worthiness](https://github.com/leokariuki/Credit_Worthiness_of_Small_Businesses) | `Python` `Scikit-learn` `Streamlit`
-**Dataset:** **899K+ SBA loan applications**
-
-- 🎯 Achieved **90% accuracy** in loan default prediction using XGBoost and ensemble methods
-- 🚀 Deployed **production-ready ML pipeline** via Streamlit, reducing manual review time by **40%**
-- 🔍 Implemented advanced feature engineering techniques to identify key creditworthiness indicators
-
-### [Airline Sentiment Analysis](https://github.com/leokariuki/AIRLINE-SENTIMENT-ANALYSIS) | `Python` `NLP` `NLTK`
-**Accuracy:** **86.5%** sentiment classification
-
-- 💬 Built NLP pipeline analyzing passenger sentiment toward American Airlines
-- 🔤 Implemented text preprocessing, TF-IDF vectorization, and sentiment classification algorithms
-- 📊 Delivered actionable insights for customer experience improvement
-
-### [King County House Sales Prediction](https://github.com/leokariuki/King_County_House-Sales_Model) | `Python` `Regression`
-**Dataset:** **21K+ property transactions** with **19+ features**
-
-- 🏠 Built predictive regression model with **74% explained variance** (R²)
-- 💰 Provided actionable insights for property valuation accuracy and investment risk reduction
-- 🔧 Leveraged advanced feature engineering to identify key price drivers
-
-### [Chicago Car Crash Analysis](https://github.com/leokariuki/Chicago-Car-Crashes) | `Python` `XGBoost` `Classification`
-**Accuracy:** **88%** crash factor prediction
-
-- 🚗 Applied Logistic Regression, Random Forest, and XGBoost to historical crash data
-- 🎯 Identified high-risk factors informing data-driven road safety strategies
-- 📈 Delivered model insights enabling proactive accident prevention measures
+### 🧩 [SIS Questionnaire Platform](https://github.com/leokariuki/sis-questionnaire-platform) · `TypeScript` `Next.js`
+Schema-driven questionnaire engine with competency scoring, personalized PDF report
+generation, and an adviser analytics dashboard.
 
 ---
 
 ## 🎓 Education
 
-**MSc Data Science** | *University of East London* | Sep 2025 – Present  
+**MSc Data Science** | *University of East London* | Sep 2025 – Present
 Advanced Machine Learning • Statistical Modeling • Big Data Analytics
 
-**Data Science Bootcamp** | *Moringa School* | Feb 2023 – Nov 2023  
+**Data Science Bootcamp** | *Moringa School* | Feb 2023 – Nov 2023
 Full-Stack Data Science & Analytics Program
 
-**Bachelor of Commerce** | *KCA University* | Feb 2018 – Dec 2022  
+**Bachelor of Commerce** | *KCA University* | Feb 2018 – Dec 2022
 Financial Analysis • Business Principles • Quantitative Methods
 
 ---
@@ -152,7 +152,9 @@ Financial Analysis • Business Principles • Quantitative Methods
 
 ## 📊 GitHub Stats
 
-![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leokariuki&show_icons=true&theme=radical)
+![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leokariuki&show_icons=true&include_all_commits=true&theme=radical)
+
+![Streak](https://streak-stats.demolab.com?user=leokariuki&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leokariuki&layout=compact&theme=radical)
 
@@ -161,7 +163,7 @@ Financial Analysis • Business Principles • Quantitative Methods
 ## 💡 What I Bring to the Table
 
 - 🔍 **Analytics Rigor**: Production-grade ETL pipelines, SQL optimization, and regulatory compliance
-- 🤖 **ML Innovation**: End-to-end model development from data preprocessing to deployment
+- 🤖 **ML & AI Innovation**: End-to-end model development plus LLM- and RAG-powered applications
 - 📊 **Data Storytelling**: Transforming complex datasets into executive-ready insights
 - ⚡ **Performance Focus**: Query optimization, automation, and scalable solutions
 - 🌍 **Cross-Cultural Collaboration**: English (Fluent) • Swahili (Fluent) • Spanish (A1)
@@ -170,11 +172,12 @@ Financial Analysis • Business Principles • Quantitative Methods
 
 ## 📫 Let's Connect!
 
-I'm always open to collaborating on data science projects, discussing analytics challenges, or exploring opportunities where data drives impact.
+I'm always open to collaborating on data science and AI projects, discussing analytics
+challenges, or exploring opportunities where data drives impact.
 
-**📧 Email:** leokariuki98@gmail.com  
-**💼 LinkedIn:** [linkedin.com/in/leokariuki](https://www.linkedin.com/in/leokariuki/)  
-**🌐 Portfolio:** [leokariuki.lovable.app](https://leokariuki.lovable.app)  
+**📧 Email:** leokariuki98@gmail.com
+**💼 LinkedIn:** [linkedin.com/in/leokariuki](https://www.linkedin.com/in/leokariuki/)
+**🌐 Portfolio:** [leokariuki.lovable.app](https://leokariuki.lovable.app)
 **📝 Medium:** [@leokariuki98](https://medium.com/@leokariuki98)
 
 ---
