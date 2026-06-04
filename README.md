@@ -16,7 +16,6 @@ real automation and analytics for a social-impact organisation in Spain.
 
 ## 🔭 What I'm Building Now
 
-- 🤖 **LLM & RAG applications** — document Q&A and report-generation tools using OpenAI / LangChain
 - ⚙️ **No-/low-code automation** that replaces manual workflows for a non-profit (Make.com, Python, APIs)
 - 📊 **Production analytics** — schema-driven reporting platforms with scoring engines and PDF generation
 - 🎓 **MSc research** in applied machine learning and big-data analytics
