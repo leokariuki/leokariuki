@@ -150,14 +150,6 @@ Financial Analysis • Business Principles • Quantitative Methods
 
 ---
 
-## 📊 GitHub Stats
-
-![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leokariuki&show_icons=true&include_all_commits=true&theme=radical)
-
-![Streak](https://streak-stats.demolab.com?user=leokariuki&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leokariuki&layout=compact&theme=radical)
-
 ---
 
 ## 💡 What I Bring to the Table
