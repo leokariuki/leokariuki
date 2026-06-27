@@ -1,181 +1,164 @@
-# Hi there! 👋 I'm Leo Kariuki
+# Hi, I'm Leo Kariuki 👋
 
-**Data Scientist | AI Engineer | Data & Automation Specialist | MSc Data Science**
+Data Scientist and AI Engineer who builds tools that help people make smarter decisions with data.
+I work across the full stack — from cleaning raw data to shipping production applications —
+with a focus on machine learning, AI systems, and automation.
 
-I build intelligent, automated systems that turn messy data into business decisions —
-spanning machine learning, NLP, LLM-powered tools, and end-to-end analytics pipelines.
-Currently pursuing an MSc in Data Science (University of East London) while shipping
-real automation and analytics for a social-impact organisation in Spain.
+Currently pursuing an MSc in Data Science at the University of East London,
+while delivering analytics and automation for a social-impact organisation in Spain.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leokariuki/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://leokariuki.lovable.app)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leokariuki98)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leokariuki98@gmail.com)
 
----
+## What I'm Working On
 
-## 🔭 What I'm Building Now
+- Automating repetitive manual workflows for a non-profit using Python and no-code tools
+- Building a schema-driven reporting platform with PDF generation and scoring engines
+- MSc coursework in advanced machine learning and big-data analytics
 
-- ⚙️ **No-/low-code automation** that replaces manual workflows for a non-profit (Make.com, Python, APIs)
-- 📊 **Production analytics** — schema-driven reporting platforms with scoring engines and PDF generation
-- 🎓 **MSc research** in applied machine learning and big-data analytics
+## Skills
 
----
-
-## 🛠️ Technical Capabilities
-
-### Languages & Databases
+**Languages & Databases**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### Data Science & ML
+**Machine Learning & Data Science**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-### AI / LLM Engineering
+**AI & Language Models**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### Visualization, BI & Automation
+**Visualisation & Automation**
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
 
-### Core Competencies
-- **ETL & Data Engineering**: Automated pipelines, query optimization, data validation
-- **Machine Learning**: Classification, regression, NLP, feature engineering
-- **AI Engineering**: LLM applications, RAG systems, prompt engineering, AI-driven automation
-- **Statistical Modeling**: Hypothesis testing, predictive analytics, time series
-- **Data Visualization**: Interactive dashboards, executive reporting, storytelling
+## Experience
 
----
+**Digital Projects Analyst · BienesDar.org**
+*Feb 2026 – Present · Spain, Remote*
 
-## 💼 Professional Experience
+Building automation workflows, dashboards, and reporting tools for a social-impact organisation.
+Projects range from a hands-off social-media publisher to a soft-skills tracking passport for young people.
 
-### **Digital Projects Analyst** | *BienesDar.org*
-**Feb 2026 – Present** | Spain · Remote
+**Data Analyst, Quality Audit · Commission for University Education**
+*Apr 2024 – Apr 2025 · Nairobi, Kenya*
 
-- 🤖 **Building lightweight automation workflows**, tracking systems, and basic platforms to support social impact projects with low-cost, low-maintenance digital solutions
-- 📊 **Developing KPI snapshots, progress dashboards, and reporting templates** for internal use and funder/partner communication
-- 📁 Organising documentation and evidence packs including deliverables, dissemination proofs, and testing feedback
-- 📝 Producing short analytical notes and data-driven summaries to support decision-making and funding discussions
-- 🌍 Contributing to key projects: **Social Media Publisher, Soft Skills Passport, Intercambio Alojamiento, and Counselia**
+Automated audit pipelines processing 50,000+ records, built real-time KPI dashboards in Tableau,
+and cut report turnaround from 6 weeks to 2 — giving leadership faster access to the numbers
+that drive accreditation decisions.
 
-### **Data Analyst, Quality Audit** | *Commission for University Education*
-**Apr 2024 – Apr 2025** | Nairobi, Kenya
+**Data Analytics Intern · KPMG Forage**
+*Aug 2023 – Sep 2023 · Remote*
 
-- 🚀 **Engineered automated ETL pipelines** in SQL processing **50,000+ audit records** with zero compliance violations
-- 📊 **Architected interactive Tableau dashboards** with drill-downs and calculated fields, enabling real-time monitoring of **15+ KPIs**
-- ⚡ **Optimized report generation by 67%** (6 weeks → 2 weeks) through strategic query optimization and automation
-- 💡 Delivered data-driven insights that informed strategic decision-making at the executive level
+Completed a customer-targeting analytics simulation: assessed data quality, ran demographic analysis,
+and built visualisations translating complex data into business recommendations.
 
-### **Data Analytics Intern** | *KPMG Forage (Virtual)*
-**Aug 2023 – Sep 2023** | Remote
+**Data Analyst Attaché · National Social Security Fund**
+*Jun 2022 – Aug 2022 · Nairobi, Kenya*
 
-- 🎯 Completed customer-targeting analytics simulation covering data quality assessment, demographic analysis, and dashboard development
-- 📈 Built high-impact visualizations translating complex customer data into actionable business strategies
+Validated and cleaned member records using SQL, improving data accuracy for UPN computation and records management.
 
-### **Data Analyst Attaché** | *National Social Security Fund*
-**Jun 2022 – Aug 2022** | Nairobi, Kenya
+## Projects
 
-- 🔍 Processed and validated member data using **SQL queries**, significantly improving database accuracy
-- ⚙️ Streamlined data workflows for UPN computation, data retrieval, and records management
+### 🤖 [CBK Policy RAG](https://github.com/leokariuki/cbk-policy-rag) · [Live Demo](https://cbkpolicyrag.streamlit.app/)
+`Python` `ChromaDB` `BM25` `Streamlit` `Groq`
 
----
+Central Bank of Kenya publishes detailed reports on monetary policy and banking supervision — but they're long,
+technical PDFs that take hours to read. This tool lets you ask plain-English questions and get answers
+cited directly to the source document and page number, so nothing is taken out of context.
 
-## 🚀 Featured Projects
+Built with rigorous evaluation: the first version found the right passage 50% of the time.
+After adding a hybrid search approach, that rose to **77%** — a 54% improvement measured
+on 30 real policy questions.
 
-### 🤖 [CBK Policy RAG](https://github.com/leokariuki/cbk-policy-rag) · `Python` `RAG` `ChromaDB` `BM25` `Streamlit` · [Live Demo](https://cbkpolicyrag.streamlit.app/)
-Production RAG system answering questions about **Kenyan monetary policy and banking
-supervision**, grounded in CBK's own published reports. Built evaluation-first: baseline
-dense retrieval **(Recall@5 = 0.50)** improved to **0.77** after adding BM25 hybrid
-retrieval and a cross-encoder reranker. Every answer cites the exact source and page.
-Zero-cost stack — local embeddings, Chroma vector store, free-tier Groq LLM.
+### 📊 [Healthcare Utilization Analysis](https://github.com/leokariuki/Healthcare-Utilization-Project)
+`Python` `PostgreSQL` `Tableau`
 
-### 📊 [Healthcare Utilization Analytics](https://github.com/leokariuki/Healthcare-Utilization-Project) · `Python` `PostgreSQL` `Tableau`
-End-to-end analytics pipeline on **synthetic Synthea EHR data** — Python cleaning → SQL
-aggregation → interactive Tableau dashboards on demographics, top conditions, encounter
-mix, and readmission patterns.
+Hospitals and clinics need to know which patients are coming in, for what, and how often —
+to staff correctly and allocate resources wisely. This project builds an end-to-end analytics
+pipeline over synthetic patient records, from raw data cleaning through to interactive Tableau
+dashboards showing demographics, top conditions, and readmission patterns.
 
-### 🔋 [EV Market Analytics](https://github.com/leokariuki/ev-insights) · `PostgreSQL` `Tableau`
-SQL-driven analysis of electric-vehicle population data, uncovering **BEV vs PHEV adoption
-trends**, manufacturer leadership, and electric-range progress over time.
+### 🔋 [EV Market Analytics](https://github.com/leokariuki/ev-insights)
+`PostgreSQL` `Tableau`
 
-### 💬 [Airline Sentiment Analysis](https://github.com/leokariuki/AIRLINE-SENTIMENT-ANALYSIS) · `Python` `NLP` `NLTK`
-NLP pipeline classifying US-airline tweets into positive/negative/neutral sentiment —
-text preprocessing, TF-IDF vectorization, and ML classification to surface
-customer-experience signals.
+Electric vehicle adoption is accelerating, but the numbers tell a more nuanced story.
+This project uses SQL to surface BEV vs PHEV market share, manufacturer leadership,
+and how electric range has improved over time — the kind of analysis that helps
+fleet managers and policymakers make evidence-based decisions.
 
-### 🏠 [King County House Price Prediction](https://github.com/leokariuki/King_County_House-Sales_Model) · `Python` `Regression`
-Multiple-regression model on **21K+ property transactions** (R² ≈ 0.74), identifying the
-key drivers of home value to support data-driven property valuation.
+### 💬 [Airline Sentiment Analysis](https://github.com/leokariuki/AIRLINE-SENTIMENT-ANALYSIS)
+`Python` `NLP` `NLTK`
 
-### 🚗 [Chicago Car-Crash Classification](https://github.com/leokariuki/Chicago-Car-Crashes) · `Python` `XGBoost`
-Multi-model comparison (Logistic Regression → Random Forest → XGBoost) predicting primary
-crash causes to inform proactive road-safety strategy.
+Airline social media is full of unstructured feedback. This NLP pipeline reads US-airline tweets,
+classifies them as positive, negative, or neutral (at ~86% accuracy), and surfaces the
+operational issues driving the most complaints — turning noise into actionable insight.
 
-### ⚙️ [BienesDar Social-Media Publisher](https://github.com/leokariuki/BienesDar-Social-Media-Publisher) · `Automation` `APIs`
-Hands-off, multi-platform daily publishing (LinkedIn · Facebook · Instagram · Bluesky)
-driven by a Google Sheets content plan — eliminating manual social-media work for a non-profit.
+### 🏠 [King County House Price Prediction](https://github.com/leokariuki/King_County_House-Sales_Model)
+`Python` `Regression`
 
-### 🧩 [SIS Questionnaire Platform](https://github.com/leokariuki/sis-questionnaire-platform) · `TypeScript` `Next.js`
-Schema-driven questionnaire engine with competency scoring, personalized PDF report
-generation, and an adviser analytics dashboard.
+Trained on 21,000+ property transactions in King County, this regression model predicts
+home sale prices (R² ≈ 0.74) and identifies which features — size, location, condition —
+matter most. Useful for buyers, sellers, and anyone trying to understand what actually
+drives property value.
 
----
+### 🚗 [Chicago Car-Crash Classification](https://github.com/leokariuki/Chicago-Car-Crashes)
+`Python` `XGBoost`
 
-## 🎓 Education
+Road safety decisions are only as good as the data behind them. This project tests three
+classification models to predict the primary cause of a crash, progressing from Logistic Regression
+through Random Forest to XGBoost — giving city planners a data-driven basis for targeting
+the right interventions.
 
-**MSc Data Science** | *University of East London* | Sep 2025 – Present
-Advanced Machine Learning • Statistical Modeling • Big Data Analytics
+### ⚙️ [BienesDar Social-Media Publisher](https://github.com/leokariuki/BienesDar-Social-Media-Publisher)
+`Automation` `APIs`
 
-**Data Science Bootcamp** | *Moringa School* | Feb 2023 – Nov 2023
-Full-Stack Data Science & Analytics Program
+A non-profit was spending hours each week manually posting to LinkedIn, Facebook, Instagram, and Bluesky.
+This automation reads a Google Sheets content plan and publishes across all four platforms daily,
+hands-off — freeing the team to focus on the work that actually needs a human.
 
-**Bachelor of Commerce** | *KCA University* | Feb 2018 – Dec 2022
-Financial Analysis • Business Principles • Quantitative Methods
+### 🧩 [SIS Questionnaire Platform](https://github.com/leokariuki/sis-questionnaire-platform)
+`TypeScript` `Next.js`
 
----
+A schema-driven questionnaire tool built for the Leysin American School Summer Experience.
+Students answer one question at a time, get scored across seven competencies,
+and receive a personalised PDF report. Advisers get an analytics dashboard
+to track cohort trends.
 
-## 🏆 Certifications & Achievements
+## Education
 
-- ✅ **Risk Champion** – Commission for University Education
-- 🔒 **Data Protection Course** – Strathmore University (CIPIT)
-- 📊 **Data Analytics Virtual Internship** – KPMG Forage
-- 🎤 **Business Presentation Skills** – LinkedIn Learning
+**MSc Data Science** · University of East London · Sep 2025 – Present
 
----
+**Data Science Bootcamp** · Moringa School · Feb 2023 – Nov 2023
 
-## 💡 What I Bring to the Table
+**Bachelor of Commerce** · KCA University · Feb 2018 – Dec 2022
 
-- 🔍 **Analytics Rigor**: Production-grade ETL pipelines, SQL optimization, and regulatory compliance
-- 🤖 **ML & AI Innovation**: End-to-end model development plus LLM- and RAG-powered applications
-- 📊 **Data Storytelling**: Transforming complex datasets into executive-ready insights
-- ⚡ **Performance Focus**: Query optimization, automation, and scalable solutions
-- 🌍 **Cross-Cultural Collaboration**: English (Fluent) • Swahili (Fluent) • Spanish (A1)
+## Certifications
 
----
+- Risk Champion · Commission for University Education
+- Data Protection · Strathmore University (CIPIT)
+- Data Analytics Virtual Internship · KPMG Forage
+- Business Presentation Skills · LinkedIn Learning
 
-## 📫 Let's Connect!
+## Get in Touch
 
-I'm always open to collaborating on data science and AI projects, discussing analytics
-challenges, or exploring opportunities where data drives impact.
+I'm open to collaborating on data and AI projects, or discussing opportunities where
+data can drive real impact.
 
-**📧 Email:** leokariuki98@gmail.com
-**💼 LinkedIn:** [linkedin.com/in/leokariuki](https://www.linkedin.com/in/leokariuki/)
-**🌐 Portfolio:** [leokariuki.lovable.app](https://leokariuki.lovable.app)
-**📝 Medium:** [@leokariuki98](https://medium.com/@leokariuki98)
-
----
-
-*"Turning data into decisions, one insight at a time."* 🚀
+📧 leokariuki98@gmail.com
+💼 [linkedin.com/in/leokariuki](https://www.linkedin.com/in/leokariuki/)
+🌐 [leokariuki.lovable.app](https://leokariuki.lovable.app)
