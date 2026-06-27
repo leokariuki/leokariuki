@@ -9,14 +9,13 @@ while delivering analytics and automation for a social-impact organisation in Sp
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leokariuki/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://leokariuki.lovable.app)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leokariuki98)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leokariuki98@gmail.com)
 
 ## What I'm Working On
 
-- Automating repetitive manual workflows for a non-profit using Python and no-code tools
-- Building a schema-driven reporting platform with PDF generation and scoring engines
-- MSc coursework in advanced machine learning and big-data analytics
+Automating repetitive manual workflows for a non-profit using Python and no-code tools,
+building a schema-driven reporting platform with PDF generation and scoring engines,
+and completing MSc coursework in advanced machine learning and big-data analytics.
 
 ## Skills
 
@@ -35,7 +34,7 @@ while delivering analytics and automation for a social-impact organisation in Sp
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 **AI & Language Models**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -85,6 +84,13 @@ Built with rigorous evaluation: the first version found the right passage 50% of
 After adding a hybrid search approach, that rose to **77%** — a 54% improvement measured
 on 30 real policy questions.
 
+### ⚙️ [BienesDar Social-Media Publisher](https://github.com/leokariuki/BienesDar-Social-Media-Publisher)
+`Automation` `APIs`
+
+A non-profit was spending hours each week manually posting to LinkedIn, Facebook, Instagram, and Bluesky.
+This automation reads a Google Sheets content plan and publishes across all four platforms daily,
+hands-off — freeing the team to focus on the work that actually needs a human.
+
 ### 📊 [Healthcare Utilization Analysis](https://github.com/leokariuki/Healthcare-Utilization-Project)
 `Python` `PostgreSQL` `Tableau`
 
@@ -105,7 +111,7 @@ fleet managers and policymakers make evidence-based decisions.
 `Python` `NLP` `NLTK`
 
 Airline social media is full of unstructured feedback. This NLP pipeline reads US-airline tweets,
-classifies them as positive, negative, or neutral (at ~86% accuracy), and surfaces the
+classifies them as positive, negative, or neutral at ~86% accuracy, and surfaces the
 operational issues driving the most complaints — turning noise into actionable insight.
 
 ### 🏠 [King County House Price Prediction](https://github.com/leokariuki/King_County_House-Sales_Model)
@@ -123,13 +129,6 @@ Road safety decisions are only as good as the data behind them. This project tes
 classification models to predict the primary cause of a crash, progressing from Logistic Regression
 through Random Forest to XGBoost — giving city planners a data-driven basis for targeting
 the right interventions.
-
-### ⚙️ [BienesDar Social-Media Publisher](https://github.com/leokariuki/BienesDar-Social-Media-Publisher)
-`Automation` `APIs`
-
-A non-profit was spending hours each week manually posting to LinkedIn, Facebook, Instagram, and Bluesky.
-This automation reads a Google Sheets content plan and publishes across all four platforms daily,
-hands-off — freeing the team to focus on the work that actually needs a human.
 
 ### 🧩 [SIS Questionnaire Platform](https://github.com/leokariuki/sis-questionnaire-platform)
 `TypeScript` `Next.js`
@@ -149,10 +148,15 @@ to track cohort trends.
 
 ## Certifications
 
-- Risk Champion · Commission for University Education
-- Data Protection · Strathmore University (CIPIT)
-- Data Analytics Virtual Internship · KPMG Forage
-- Business Presentation Skills · LinkedIn Learning
+AI Fluency for Nonprofits · Anthropic
+
+Risk Champion · Commission for University Education
+
+Data Protection · Strathmore University (CIPIT)
+
+Data Analytics Virtual Internship · KPMG Forage
+
+Business Presentation Skills · LinkedIn Learning
 
 ## Get in Touch
 
