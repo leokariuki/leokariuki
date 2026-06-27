@@ -95,6 +95,13 @@ real automation and analytics for a social-impact organisation in Spain.
 
 ## 🚀 Featured Projects
 
+### 🤖 [CBK Policy RAG](https://github.com/leokariuki/cbk-policy-rag) · `Python` `RAG` `ChromaDB` `BM25` `Streamlit` · [Live Demo](https://cbkpolicyrag.streamlit.app/)
+Production RAG system answering questions about **Kenyan monetary policy and banking
+supervision**, grounded in CBK's own published reports. Built evaluation-first: baseline
+dense retrieval **(Recall@5 = 0.50)** improved to **0.77** after adding BM25 hybrid
+retrieval and a cross-encoder reranker. Every answer cites the exact source and page.
+Zero-cost stack — local embeddings, Chroma vector store, free-tier Groq LLM.
+
 ### 📊 [Healthcare Utilization Analytics](https://github.com/leokariuki/Healthcare-Utilization-Project) · `Python` `PostgreSQL` `Tableau`
 End-to-end analytics pipeline on **synthetic Synthea EHR data** — Python cleaning → SQL
 aggregation → interactive Tableau dashboards on demographics, top conditions, encounter
@@ -146,8 +153,6 @@ Financial Analysis • Business Principles • Quantitative Methods
 - 🔒 **Data Protection Course** – Strathmore University (CIPIT)
 - 📊 **Data Analytics Virtual Internship** – KPMG Forage
 - 🎤 **Business Presentation Skills** – LinkedIn Learning
-
----
 
 ---
 
