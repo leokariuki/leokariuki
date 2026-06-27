@@ -91,6 +91,14 @@ A non-profit was spending hours each week manually posting to LinkedIn, Facebook
 This automation reads a Google Sheets content plan and publishes across all four platforms daily,
 hands-off — freeing the team to focus on the work that actually needs a human.
 
+### 🧩 [SIS Questionnaire Platform](https://github.com/leokariuki/sis-questionnaire-platform)
+`TypeScript` `Next.js`
+
+A schema-driven questionnaire tool built for the Leysin American School Summer Experience.
+Students answer one question at a time, get scored across seven competencies,
+and receive a personalised PDF report. Advisers get an analytics dashboard
+to track cohort trends.
+
 ### 📊 [Healthcare Utilization Analysis](https://github.com/leokariuki/Healthcare-Utilization-Project)
 `Python` `PostgreSQL` `Tableau`
 
@@ -129,14 +137,6 @@ Road safety decisions are only as good as the data behind them. This project tes
 classification models to predict the primary cause of a crash, progressing from Logistic Regression
 through Random Forest to XGBoost — giving city planners a data-driven basis for targeting
 the right interventions.
-
-### 🧩 [SIS Questionnaire Platform](https://github.com/leokariuki/sis-questionnaire-platform)
-`TypeScript` `Next.js`
-
-A schema-driven questionnaire tool built for the Leysin American School Summer Experience.
-Students answer one question at a time, get scored across seven competencies,
-and receive a personalised PDF report. Advisers get an analytics dashboard
-to track cohort trends.
 
 ## Education
 
